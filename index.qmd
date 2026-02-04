@@ -4,20 +4,18 @@ title: "Welcome to the Data Anonymisation Course"
 
 This website is work in progress. Please come back later in 2026 :)
 
-
 # Tutorial Overview
 
 This **self-paced tutorial** is intended to take X hours to complete.
 
 The tutorial is split into the following sections:
 
-1.  [**FOUNDATIONS OF DATA PRIVACY**](FOUNDATIONS) talks about Foundations of Data Privacy, in the European Framework
-2.  [**TOPIC2**]() discusses TOPIC2
-
+1.  **FOUNDATIONS OF DATA PROTECTION**(FOUNDATION) talks about data protection basic in ethics and law, mechanisms of data protection in research, and foundational terms.
+2.  [**DATA ANONYMIZATION PROCESS**](ANONYMIZATION) walks you then through the process of anonymizing your research data based on example data.
+3. [**BALANCING DATA PROTECTION AND OPENNESS**](BALANCING) closes this tutorial by providing tips on aligning your data protection and open science interests. 
 
 ::: {.callout-tip title="Recommended Software"}
 This tutorial assumes you have the following software installed:
 
 -   SOME SOFTWARE + LINK HERE
-
 :::
