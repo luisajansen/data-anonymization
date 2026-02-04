@@ -2,6 +2,8 @@
 title: "Legal Basis for Data Processing"
 ---
 
+(Deprecated)
+
 In general, the storage and processing of personal data is prohibited.
 The so called "legal basis" for data processing refer to the specific justifications that is needed to perform any operation on personal data (@Hildebrandt2020-lx).
 

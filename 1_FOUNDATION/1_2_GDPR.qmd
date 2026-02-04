@@ -1,6 +1,8 @@
 ---
-title: "The GDPR"
+title: "The General Data Protection Regulation (GDPR)"
 ---
+
+(Will be shortened quite a lot/moved to other sections) 
 
 # What is the GDPR?
 
