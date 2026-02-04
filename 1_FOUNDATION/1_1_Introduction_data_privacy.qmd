@@ -3,12 +3,15 @@ title: "Introduction to Data Privacy"
 ---
 
 The headers below cause the table of contents/dropdown on the right to be visible. 
-# Definition and importance of data privacy
+# What is data privacy?
 
-## What is data privacy?
+- Somewhat hard to define
+- Nissenbaum's concept (shortly and easy)
 
+In this tutorial, I will use the term data protection. Privacy is a larger term, encompassing values, attitudes, and behaviors, while data protection is more technical and closer to actual mechanisms.
 
-- Definition and importance of data privacy and anonymization
+## Why is data protection important?
 
+Some personal reflection tasks
 
-# Historical context and evolution of privacy regulations (Optional sub-topic - short & collapsable)
+As researchers, our obligation to data protection arises from two (not totally distinct) directions: ethics and law. 
