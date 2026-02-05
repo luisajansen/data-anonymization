@@ -11,7 +11,7 @@ bibliography: references.bib
 website:
   title: "Data Anonymisation Course"
   page-footer: 
-    center: "Copyright, 2024 Open Science Center at LMU Munich"
+    center: "Copyright, 2026 Open Science Center at LMU Munich"
     border: false
   search:
     location: sidebar
@@ -51,11 +51,11 @@ website:
           - href: 1_FOUNDATION/1_1_Introduction_data_privacy.qmd
             text: "Introduction"
           - href: 1_FOUNDATION/1_2_GDPR.qmd
-            text: "GDPR"
-          - href: 1_FOUNDATION/1_3_Personal_Data.qmd
+            text: "The GDPR"
+          - href: 1_FOUNDATION/1_3_Mechanisms.qmd
+            text: "Mechanisms of Data Protection in Research""
+          - href: 1_FOUNDATION/1_4_Data_Terms.qmd
             text: "Personal Data"
-          - href: 1_FOUNDATION/1_4_Legal_Basis.qmd
-            text: "Legal Basis"
       - section: "FOUNDATIONS: DATA ANONYMISATION"
         contents:
           - href: 2_DATA-ANONYMISATION/2_1_Key_concepts.qmd
